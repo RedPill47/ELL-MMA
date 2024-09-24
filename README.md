@@ -32,6 +32,8 @@ You can request access to read the paper written for this project:
 https://www.overleaf.com/project/6687d7e743c43e829e68264e
 
 # Installation
+**Note:** This project requires Python 3.9 or later. Ensure you have the correct version installed before proceeding.
+
 Follow these steps to set up the project on your local machine:
 ```
 git clone https://github.com/Titouaaaan/ELL-MMA.git
