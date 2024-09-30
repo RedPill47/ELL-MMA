@@ -182,3 +182,4 @@ Unidecode
 wasabi
 weasel
 Werkzeug
+langgraph-checkpoint-sqlite  
